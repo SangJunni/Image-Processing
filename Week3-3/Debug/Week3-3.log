@@ -1,0 +1,14 @@
+﻿  소스.cpp
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(11,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(12,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(33,18): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(33,12): warning C4101: 'R' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(32,13): warning C4101: 'Y2' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(31,12): warning C4101: 'Cb' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(31,9): warning C4101: 'Y' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(34,9): warning C4101: 'Diff_Y' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(33,9): warning C4101: 'I' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(32,9): warning C4101: 'Y1' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(33,15): warning C4101: 'G' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\소스.cpp(31,16): warning C4101: 'Cr' :참조되지 않은 지역 변수입니다.
+  Week3-3.vcxproj -> C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week3-3\Debug\Week3-3.exe

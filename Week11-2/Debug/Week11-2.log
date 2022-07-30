@@ -1,0 +1,15 @@
+﻿  소스.cpp
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(82,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(113,25): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(11,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(134,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,20): warning C4101: 'Gx2' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,25): warning C4101: 'Gx3' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,13): warning C4101: 'Gy' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,30): warning C4101: 'Gy2' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(34,9): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,35): warning C4101: 'Gy3' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(34,6): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,9): warning C4101: 'Gx' :참조되지 않은 지역 변수입니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\소스.cpp(36,17): warning C4101: 'G' :참조되지 않은 지역 변수입니다.
+  Week11-2.vcxproj -> C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week11-2\Debug\Week11-2.exe

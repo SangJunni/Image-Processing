@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week6-1\소스.cpp(52,29): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week6-1\소스.cpp(11,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week6-1\소스.cpp(64,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Week6-1.vcxproj -> C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week6-1\Debug\Week6-1.exe

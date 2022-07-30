@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week4-2\소스.cpp(11,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week4-2\소스.cpp(12,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week4-2\소스.cpp(78,21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Week4-2.vcxproj -> C:\Users\yoons\Sangjun\대학교\2021상반기-5학기\영상처리\Weekly_practice\Week4-2\Debug\Week4-2.exe
